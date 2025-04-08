@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is my personal special repository.
+I'm Leonardo Viegas, student of Universidad Tecnológica Nacional (UTN), from Argentina
 <!--
 **leojviegas/leojviegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
